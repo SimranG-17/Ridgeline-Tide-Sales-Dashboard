@@ -64,8 +64,6 @@ Key calculations: `Revenue = Units x Unit Price x (1 - Discount %)`, `COGS = Uni
 Excel PivotTables and PivotCharts, slicers connected across multiple pivots, KPI cards linked to live cells, calculated fields, dashboard layout and design, business-question framing, synthetic data design, and turning numbers into recommendations.
 
 ```
-
-
 ## Limitations
 - Data is synthetic, so the patterns reflect how it was designed rather than a real market.
 - All amounts are USD-equivalent with no currency conversion or tax.
