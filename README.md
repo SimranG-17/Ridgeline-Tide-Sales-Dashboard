@@ -63,22 +63,8 @@ Key calculations: `Revenue = Units x Unit Price x (1 - Discount %)`, `COGS = Uni
 ## Skills demonstrated
 Excel PivotTables and PivotCharts, slicers connected across multiple pivots, KPI cards linked to live cells, calculated fields, dashboard layout and design, business-question framing, synthetic data design, and turning numbers into recommendations.
 
-## Repository structure
-```
-ridgeline-tide-sales-dashboard/
-├── README.md
-├── dashboard/
-│   └── Ridgeline_Tide_Sales_Dashboard.xlsx
-├── docs/
-│   └── BUSINESS_QUESTIONS_AND_ANSWERS.md
-└── images/
-    └── dashboard.png
 ```
 
-## How to open it
-1. Download `dashboard/Ridgeline_Tide_Sales_Dashboard.xlsx`.
-2. Open it in **desktop Excel** (2016 or later). Slicers and pivot charts do not work in GitHub's preview or in most web viewers.
-3. Click the slicers on the DASHBOARD sheet to filter.
 
 ## Limitations
 - Data is synthetic, so the patterns reflect how it was designed rather than a real market.
