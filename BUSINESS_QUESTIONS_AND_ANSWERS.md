@@ -1,6 +1,6 @@
 # Business Questions and Answers
 
-Companion to the [project README](../README.md). Part A covers questions the **dashboard answers directly**. Part B covers deeper questions answered by analysing the **Sales Data** sheet. Part C turns the findings into actions.
+Companion to the [project README](README.md). Part A covers questions the **dashboard answers directly**. Part B covers deeper questions answered by analysing the **Sales Data** sheet. Part C turns the findings into actions.
 
 > All data is synthetic (fictional brand "Ridgeline & Tide Outfitters", Jan 2024 - Dec 2025, 6,200 orders). Figures are USD-equivalent.
 
