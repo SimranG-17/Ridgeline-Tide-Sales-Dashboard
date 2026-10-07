@@ -1,4 +1,4 @@
-# Excel-Sales-Dashboard-
+
 # Ridgeline & Tide Outfitters: Sales Performance Dashboard (Excel)
 
 An interactive Excel dashboard that answers core sales questions for a fictional outdoor-gear retailer selling in 10 countries across North America, Oceania, South America and the UK & Ireland.
@@ -93,4 +93,4 @@ ridgeline-tide-sales-dashboard/
 - The dashboard covers revenue and profit only, with no forecasting, returns or customer-level analysis.
 
 ## Author
-**[Simran Grover]** | [grover.simran1998@gmail.com]
+**Simran Grover** | www.linkedin.com/in/simrangrover98 | grover.simran1998@gmail.com
