@@ -4,10 +4,6 @@
 An interactive Excel dashboard that answers core sales questions for a fictional outdoor-gear retailer selling in 10 countries across North America, Oceania, South America and the UK & Ireland.
 
 > **Note:** All data is **synthetic**. "Ridgeline & Tide Outfitters" is a made-up brand. No real company, customer or transaction is represented.
-
-<img width="695" height="376" alt="image" src="https://github.com/user-attachments/assets/d1c058e2-d959-4e94-b661-a7074679d838" />
-
-
 ---
 
 ## Project at a glance
