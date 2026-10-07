@@ -71,9 +71,6 @@ ridgeline-tide-sales-dashboard/
 │   └── Ridgeline_Tide_Sales_Dashboard.xlsx
 ├── docs/
 │   └── BUSINESS_QUESTIONS_AND_ANSWERS.md
-├── data/
-│   ├── ridgeline_tide_sales_data.csv
-│   └── DATA_DICTIONARY.md
 └── images/
     └── dashboard.png
 ```
